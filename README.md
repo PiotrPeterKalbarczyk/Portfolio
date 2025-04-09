@@ -9,12 +9,17 @@ I'm Piotr Kalbarczyk, a passionate Data Analyst with expertise in Python, SQL, a
    - **Skills:** Data Collection, Geospatial Analysis, Visualization.
    - **Status:** [Repository Link](https://github.com/PiotrPeterKalbarczyk/DA-Final-Project---Serving-Success)
 
-### 2. **SQL Flights Analysis**
+### 2. **Model poznawczy (PL)**
+   - **Description:** App created to help me with my therapy sessions and make them more productive.
+   - **Skills:** Streamlit, Raport.
+   - **Status:** [Repository Link](https://github.com/PiotrPeterKalbarczyk/model_poznawczy_app)
+
+### 3. **SQL Flights Analysis**
    - **Description:** Conducted an in-depth analysis of flight schedules and performance using SQL.
    - **Skills:** SQL Queries, Data Cleaning, Performance Metrics.
    - **Status:** [Repository Link](https://github.com/PiotrPeterKalbarczyk/SQL-Weather-Flights-Project)
 
-### 3. **Retail Sales Cleaning**
+### 4. **Retail Sales Cleaning**
    - **Description:** Explored and cleaned data using Python.
    - **Skills:** Data Wrangling.
    - **Status:** [Repository Link](https://github.com/PiotrPeterKalbarczyk/retail-store-sales-etl)
