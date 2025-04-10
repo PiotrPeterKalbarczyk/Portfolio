@@ -9,7 +9,7 @@ I'm Piotr Kalbarczyk, a passionate Data Analyst with expertise in Python, SQL, a
    - **Skills:** Data Collection, Geospatial Analysis, Visualization.
    - **Status:** [Repository Link](https://github.com/PiotrPeterKalbarczyk/DA-Final-Project---Serving-Success)
 
-### 2. **Model poznawczy (PL)**
+### 2. **Model poznawczy (PL/ENG)**
    - **Description:** App created to help me with my therapy sessions and make them more productive.
    - **Skills:** Streamlit, Raport.
    - **Status:** [Repository Link](https://github.com/PiotrPeterKalbarczyk/model_poznawczy_app)
