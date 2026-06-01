@@ -1,6 +1,7 @@
-## 👋 Welcome!
+## Hi, I'm Piotr Kalbarczyk
 
-I'm Piotr Kalbarczyk, a passionate Data Analyst with expertise in Python, SQL, and a growing interest in data engineering and geospatial data. I recently completed a data analytics bootcamp at SPICED Academy in Berlin and continue building projects that combine business insight with technical skills.
+I work with data using SQL, Python and Power BI. My background includes data analysis, data migration and building analytical data models. I'm currently expanding my skills in analytics engineering, data warehousing and data pipelines.
+This GitHub contains projects focused on data analysis, data modeling, ETL processes and business problem solving.
 
 ## 🚀 Projects
 
