@@ -2,7 +2,7 @@
 
 I work with data using SQL, Python and Power BI. With an engineering background, I enjoy solving analytical problems and building data-driven solutions.
 
-My interests lie at the intersection of data analytics and data engineering, with a focus on data modeling, warehousing and ETL processes.
+I am particularly interested in analytics engineering, data warehousing, data modeling and ETL pipelines.
 
 This GitHub contains projects focused on data analysis, data modeling, ETL pipelines and business problem solving.
 
